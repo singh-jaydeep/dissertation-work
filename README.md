@@ -1,2 +1,2 @@
 # dissertation-work
-A collection of the author's research works on naked singularities. Included are copes of the thesis, a set of summary slides, and auxiliary files.
+A collection of the my dissertation work on naked singularities in mathematical general relativity. Included is a copy of my thesis, the slides from my final public oral, and some sample TikZ images. There are also some mathematica notebooks for doing computations with the Einstein-scalar field system.
