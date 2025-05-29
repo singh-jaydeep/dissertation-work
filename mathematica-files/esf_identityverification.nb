@@ -178,7 +178,7 @@ Cell[BoxData[
 
 Cell["\<\
 As an example of how one might use the substitution rules, we show the steps \
-that go into deriving the above identity (with multiplier \[CapitalGamma]=0).\
+that go into deriving the above identity (with multiplier \[CapitalGamma]=1).\
 \
 \>", "Text",
  CellChangeTimes->{{3.9554737275221167`*^9, 
